@@ -1,2 +1,2 @@
 # Stock Prediction Using LSTM
-This repository contains code that predicts closing prices using LSTM for three companies: Apple, Google, and Microsoft. Data is retrieved from Yahoo Finance.
+This project focuses on predicting the stock prices of Apple, Google, and Microsoft using Long Short-Term Memory (LSTM) models. Historical stock data was retrieved from Yahoo Finance, analyzed, and visualized. LSTM models were then built, trained, and evaluated for each company. The predicted stock prices were compared with the actual prices, and the trained models were saved for future use.
