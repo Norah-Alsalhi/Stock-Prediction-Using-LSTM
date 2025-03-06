@@ -23,3 +23,6 @@ Results and Comparison:
 - Compare the results between the three companies.
 4. **Model Saving:**
 - Save the trained LSTM models for future use.
+
+  ## Comparison of the performance of different models :
+  ![aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/user-attachments/assets/938ef906-2ff5-4e80-9003-64cfd0b5d98d)
