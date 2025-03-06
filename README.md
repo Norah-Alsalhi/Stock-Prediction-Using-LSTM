@@ -23,6 +23,12 @@ Results and Comparison:
 - Compare the results between the three companies.
 4. **Model Saving:**
 - Save the trained LSTM models for future use.
-
+![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
   ## Comparison of the performance of different models :
   ![aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/user-attachments/assets/938ef906-2ff5-4e80-9003-64cfd0b5d98d)
+
+  ## Insights:
+  - Google has the lowest MAE and RMSE, indicating the most accurate predictions in terms of error magnitude.
+  - Apple has the lowest MAPE, showing the best performance in minimizing percentage errors.
+  - Microsoft has the highest errors in MAE, RMSE, and MAPE, but the highest R2, suggesting the best model fit.
+  - All companies have high R2 values, indicating good model fits overall.
